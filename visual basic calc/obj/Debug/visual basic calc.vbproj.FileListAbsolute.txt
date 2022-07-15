@@ -1,0 +1,12 @@
+D:\coding\calculator\visual basic calc\bin\Debug\visual basic calc.exe.config
+D:\coding\calculator\visual basic calc\bin\Debug\visual basic calc.exe
+D:\coding\calculator\visual basic calc\bin\Debug\visual basic calc.pdb
+D:\coding\calculator\visual basic calc\bin\Debug\visual basic calc.xml
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.vbproj.AssemblyReference.cache
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.vbproj.SuggestedBindingRedirects.cache
+D:\coding\calculator\visual basic calc\obj\Debug\visual_basic_calc.Resources.resources
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.vbproj.GenerateResource.cache
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.vbproj.CoreCompileInputs.cache
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.exe
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.xml
+D:\coding\calculator\visual basic calc\obj\Debug\visual basic calc.pdb
